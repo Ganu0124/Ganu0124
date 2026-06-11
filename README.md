@@ -21,13 +21,13 @@
   <a href="#" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0F0A1E?style=for-the-badge&logo=vercel&logoColor=8B5CF6"/>
   </a>
-  <a href="https://linkedin.com/in/ganeshm" target="_blank">
+  <a href="https://www.linkedin.com/in/ganesh-m-217b531b8/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:MY.AC.P2MCA25012@my.students.amrita.edu">
+  <a href="mailto:gganu8615@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/ganeshm" target="_blank">
+  <a href="https://github.com/Ganu0124" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -489,7 +489,7 @@ current_focus:
 
 ---
 
-## 🤝 Connect
+## 🤝 Get In Touch 
 
 <p align="center">
   <a href="mailto:gganu8615@gmail.com">
