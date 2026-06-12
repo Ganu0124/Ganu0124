@@ -9,12 +9,12 @@
 <p align="center">
   <img src="https://img.shields.io/badge/MCA-AI%20%26%20Data%20Science-6D28D9?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/CGPA-7.19%2F10-5B21B6?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Batch-2025–2027-4C1D95?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Batch-2025--2027-4C1D95?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/BCA-Data%20Science%20%7C%202025-7C3AED?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/📍%20Mysuru-Karnataka%2C%20India-1E1B4B?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/%F0%9F%93%8D%20Mysuru-Karnataka%2C%20India-1E1B4B?style=for-the-badge&logoColor=white"/>
 </p>
 
 <p align="center">
@@ -33,10 +33,20 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ganeshm&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS"/>
-  <img src="https://img.shields.io/github/followers/ganeshm?label=FOLLOWERS&style=for-the-badge&color=5B21B6&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/github/stars/ganeshm?label=STARS&style=for-the-badge&color=4C1D95&logo=github&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=Ganu0124&color=6D28D9&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/Ganu0124?label=FOLLOWERS&style=for-the-badge&color=5B21B6&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/Ganu0124?label=STARS&style=for-the-badge&color=4C1D95&logo=github&logoColor=white"/>
 </p>
+
+<br/>
+
+---
+
+## 🎬 Portfolio Demo
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Ganu0124/Ganu/main/vid.gif" width="90%" alt="Portfolio Demo"/>
+</div>
 
 <br/>
 
@@ -170,7 +180,7 @@ Kannada (Native) · English (Professional) · Tamil
 | **Security** | On-premise model inference, no external data exposure |
 | **Impact** | Replaces manual crop monitoring with automated, scalable AI inference |
 | **Institution** | Amrita Vishwa Vidyapeetham, Mysore |
-| **Repository** | [View on GitHub](https://github.com/ganeshm) |
+| **Repository** | [View on GitHub](https://github.com/Ganu0124) |
 
 </div>
 
@@ -210,7 +220,7 @@ Designed and implemented a production-grade CNN classification pipeline from fir
 | **Performance** | Identified statistically significant price trends across commodity segments |
 | **Impact** | Enables data-driven procurement strategy, market forecasting, and policy support |
 | **Institution** | Amrita Vishwa Vidyapeetham, Mysore |
-| **Repository** | [View on GitHub](https://github.com/ganeshm) |
+| **Repository** | [View on GitHub](https://github.com/Ganu0124) |
 
 </div>
 
@@ -249,7 +259,7 @@ Engineered a full-spectrum analytics pipeline on real agricultural price dataset
 | **Security** | Isolated local transmission, closed-network prototype |
 | **Impact** | Validates IoT infrastructure concepts for smart agriculture and industrial monitoring |
 | **Institution** | Amrita Vishwa Vidyapeetham, Mysore |
-| **Repository** | [View on GitHub](https://github.com/ganeshm) |
+| **Repository** | [View on GitHub](https://github.com/Ganu0124) |
 
 </div>
 
@@ -387,19 +397,19 @@ Contributed to the institutional plastic recycling initiative *Plastic Revive an
 ## 💻 Coding Profiles
 
 <p align="center">
-  <a href="https://leetcode.com/ganeshm" target="_blank">
+  <a href="https://leetcode.com/Ganu0124" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
   &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/ganeshm" target="_blank">
+  <a href="https://www.geeksforgeeks.org/user/Ganu0124" target="_blank">
     <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.hackerrank.com/ganeshm" target="_blank">
+  <a href="https://www.hackerrank.com/Ganu0124" target="_blank">
     <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
   </a>
   &nbsp;
-  <a href="https://www.codechef.com/users/ganeshm" target="_blank">
+  <a href="https://www.codechef.com/users/Ganu0124" target="_blank">
     <img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white"/>
   </a>
 </p>
@@ -411,13 +421,13 @@ Contributed to the institutional plastic recycling initiative *Plastic Revive an
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ganeshm&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=CDD6F4&ring_color=6D28D9&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ganu0124&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=6D28D9&text_color=CDD6F4&ring_color=6D28D9&count_private=true"/>
   &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshm&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=CDD6F4&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganu0124&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=CDD6F4&layout=compact&langs_count=8"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshm&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6&sideLabels=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=6B7280&stroke=6D28D9"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ganu0124&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=6D28D9&currStreakLabel=8B5CF6&sideLabels=CDD6F4&currStreakNum=CDD6F4&sideNums=CDD6F4&dates=6B7280&stroke=6D28D9"/>
 </p>
 
 <br/>
@@ -427,7 +437,7 @@ Contributed to the institutional plastic recycling initiative *Plastic Revive an
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ganeshm&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Ganu0124&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
 </p>
 
 <br/>
@@ -437,7 +447,7 @@ Contributed to the institutional plastic recycling initiative *Plastic Revive an
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshm&theme=tokyo-night&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=A78BFA&area=true&hide_border=true&area_color=2D1B69" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganu0124&theme=tokyo-night&bg_color=0D1117&color=8B5CF6&line=6D28D9&point=A78BFA&area=true&hide_border=true&area_color=2D1B69" alt="Contribution Activity Graph"/>
 </p>
 
 <br/>
@@ -447,7 +457,11 @@ Contributed to the institutional plastic recycling initiative *Plastic Revive an
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ganeshm/ganeshm/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake Animation"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ganu0124/Ganu0124/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ganu0124/Ganu0124/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/Ganu0124/Ganu0124/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
 </p>
 
 <br/>
@@ -489,7 +503,7 @@ current_focus:
 
 ---
 
-## 🤝 Get In Touch 
+## 🤝 Connect
 
 <p align="center">
   <a href="mailto:gganu8615@gmail.com">
