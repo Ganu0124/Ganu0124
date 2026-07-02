@@ -42,16 +42,6 @@
 
 ---
 
-## 🎬 Portfolio Demo
-
-<div align="center">
-  <img src="./vid.gif" width="90%"> 
-</div>
-
-<br/>
-
----
-
 ## 🧬 About
 
 <table>
