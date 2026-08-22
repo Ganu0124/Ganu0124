@@ -20,11 +20,3 @@
   </picture>
 </p>
 
-### 💬 Dev Quote
-
-<p align="center">
-  <img
-    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&quote=I+learn+fast%2C+build+with+purpose%2C+and+turn+ideas+into+working+AI+solutions.&author=Ganesh+M"
-    alt="Ganesh M Dev Quote"
-  />
-</p>
