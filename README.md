@@ -1,7 +1,4 @@
 
-## 📡 Daily Updating Widgets
-
-### 🐍 Contribution Snake
 
 <p align="center">
   <picture>
