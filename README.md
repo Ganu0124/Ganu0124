@@ -35,10 +35,6 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6D28D9,50:A78BFA,100:6D28D9&height=3&section=header" width="80%"/>
 </p>
 
-<!-- ============================== TERMINAL CARD ============================== -->
-<p align="center">
-  <img src="./dist/terminal.svg" width="100%" alt="Animated terminal profile card"/>
-</p>
 
 <!-- ============================== DEMO ============================== -->
 ## 🎬 Portfolio Demo
