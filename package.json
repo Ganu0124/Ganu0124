@@ -1,0 +1,13 @@
+{
+  "name": "profile-animations",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Generates the animated terminal card and jet heatmap for the GitHub profile README",
+  "scripts": {
+    "heatmap": "node generate.mjs",
+    "heatmap:sample": "node generate.mjs --sample",
+    "terminal": "python ascii_to_svg.py"
+  },
+  "engines": { "node": ">=18" }
+}
