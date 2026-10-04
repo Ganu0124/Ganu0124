@@ -1,0 +1,45 @@
+name: Jet Heatmap and Terminal Card
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install Pillow
+        run: pip install pillow
+
+      - name: Build terminal card (uses photo.jpg / photo.png if present)
+        run: python ascii_to_svg.py
+
+      - name: Build jet heatmap from live contributions
+        env:
+          GITHUB_USER: ${{ github.repository_owner }}
+          # optional: add a personal token as secret GH_PAT to include private contributions
+          GITHUB_TOKEN: ${{ secrets.GH_PAT || secrets.GITHUB_TOKEN }}
+        run: node generate.mjs
+
+      - name: Commit generated SVGs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dist
+          git diff --cached --quiet || git commit -m "chore: refresh profile animations"
+          git push
